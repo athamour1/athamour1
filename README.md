@@ -5,7 +5,7 @@
 ### 🔭 I’m currently working with Virtual Solutions
 ### 🌱 I’m currently learning [pinia](https://pinia.vuejs.org/), [appwrite](https://appwrite.io/), [nomad](https://www.nomadproject.io/)
 ### 📫 How to reach me: thanosmour.tk@gmail.com
-### I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
+### 🗞️ I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
 
 <!--
 **athamour1/athamour1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
