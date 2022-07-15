@@ -4,7 +4,7 @@ My name is Thanos Mourtzoukos and I like to learn and use technologie.
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=thanos98&api_domain=wakapi.mourtzoukos.space&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
-### 🔭 I’m currently working with Virtual Solutions on Greece, Kastoria
+### 🔭 I’m currently working with Virtual Solutions in Greece, Kastoria
 ### 🌱 I’m currently learning [pinia](https://pinia.vuejs.org/), [appwrite](https://appwrite.io/), [nomad](https://www.nomadproject.io/)
 ### 📫 How to reach me: thanosmour.tk@gmail.com
 ### 🗞️ I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
