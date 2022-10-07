@@ -3,7 +3,7 @@
 My name is Thanos Mourtzoukos and I like to learn and use technologie.
 
 ### 🔭 I’m currently working with Virtual Solutions in Greece, Kastoria
-### 🌱 I’m currently learning [pinia](https://pinia.vuejs.org/), [appwrite](https://appwrite.io/), [nomad](https://www.nomadproject.io/)
+### 🌱 I’m currently learning [k3s](https://k3s.io/), [ansible](https://www.ansible.com/), [jenkins](https://www.jenkins.io/)
 ### 📫 How to reach me: thanosmour.tk@gmail.com
 ### 🗞️ I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
 
