@@ -2,7 +2,6 @@
 
 My name is Thanos Mourtzoukos and I like to learn and use technologie.
 
-### 🔭 I’m currently working with Virtual Solutions in Greece, Kastoria
 ### 🌱 I’m currently learning [k3s](https://k3s.io/), [ansible](https://www.ansible.com/), [jenkins](https://www.jenkins.io/)
 ### 📫 How to reach me: thanosmour.tk@gmail.com
 ### 🗞️ I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
@@ -20,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### 🔭 I’m currently working with European Dymanics in Greece, as a Devops Engineer
+
 -->
