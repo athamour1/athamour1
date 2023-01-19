@@ -2,7 +2,7 @@
 
 My name is Thanos Mourtzoukos and I like to learn and use technologie.
 
-### 🌱 I’m currently learning [Proxmox](https://www.proxmox.com/), [Terraform](https://www.terraform.io/), [Packer](https://www.packer.io/)
+### 🌱 I’m currently learning [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/), [loki](https://grafana.com/logs/)
 ### 📫 How to reach me: thanosmour.tk@gmail.com
 ### 🗞️ I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
 
