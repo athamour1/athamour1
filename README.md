@@ -2,7 +2,7 @@
 
 My name is Thanos Mourtzoukos and I like to learn and use technologie.
 
-### 🌱 I’m currently learning [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/), [loki](https://grafana.com/logs/)
+### 🌱 I’m currently learning [Linnkerd](https://linkerd.io/), [Velero](https://velero.io/), [robusta](https://home.robusta.dev/)
 ### 📫 How to reach me: thanosmour.tk@gmail.com
 ### 🗞️ I dont write very often, but here is my [blog](https://thanos.mourtzoukos.space/)
 
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working with European Dymanics in Greece, as a Devops Engineer
-
 -->
